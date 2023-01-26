@@ -1,0 +1,1 @@
+Val/Best_Top1_acc: 65.81039750685386	Epoch: 64
